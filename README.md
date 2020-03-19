@@ -1,2 +1,2 @@
-# RGB-Color-Game
+# Overview of RGB-Color-Game
 This project is developed using front end technologies HTML + CSS + Javascript. In this game, the player has to guess the correct color from a set of colors. The random colors in the game are generated using Math.random method. The game has two modes :- Easy and Hard Mode. In Easy Mode the player has to guess from 3 colors and in Hard mode, guess is from 6 colors. Overall, game involves extensive use of DOM manipulations and this keyword.
